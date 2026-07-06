@@ -1,5 +1,24 @@
 {
-  "updated": null,
-  "telemetry": null,
-  "items": []
+  "updated": "2026-07-07T01:27:37+05:30",
+  "telemetry": {
+    "tokens_per_s": null,
+    "temp_c": 40.5
+  },
+  "items": [
+    {
+      "title": "Blender Human Model in Isaac Sim",
+      "url": "https://forums.developer.nvidia.com/t/blender-human-model-in-isaac-sim/375752",
+      "source": "NVIDIA Omniverse Forum"
+    },
+    {
+      "title": "Love Nvidia",
+      "url": "https://www.reddit.com/r/nvidia/comments/1uoslo4/love_nvidia/",
+      "source": "Reddit — r/nvidia"
+    },
+    {
+      "title": "Finally done !",
+      "url": "https://www.reddit.com/r/nvidia/comments/1up3615/finally_done/",
+      "source": "Reddit — r/nvidia"
+    }
+  ]
 }
