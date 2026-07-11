@@ -1,28 +1,23 @@
 {
-  "updated": "2026-07-09T07:01:16+05:30",
+  "updated": "2026-07-11T07:01:29+05:30",
   "telemetry": {
     "tokens_per_s": null,
-    "temp_c": 41.8
+    "temp_c": 42.8
   },
   "items": [
     {
-      "title": "NuRec gRPC API Guide uses outdated NGC resource name for protobuf package",
-      "url": "https://forums.developer.nvidia.com/t/nurec-grpc-api-guide-uses-outdated-ngc-resource-name-for-protobuf-package/376037",
+      "title": "Isaac Sim 6.0.1 GPU crash on DGX Spark (GB10 ARM64, Driver 595.71.05)",
+      "url": "https://forums.developer.nvidia.com/t/isaac-sim-6-0-1-gpu-crash-on-dgx-spark-gb10-arm64-driver-595-71-05/376418",
       "source": "NVIDIA Omniverse Forum"
     },
     {
-      "title": "Physx Lidar do not work",
-      "url": "https://forums.developer.nvidia.com/t/physx-lidar-do-not-work/376052",
-      "source": "NVIDIA Omniverse Forum"
-    },
-    {
-      "title": "5080Super and other supers spotted in Seasonic's PSU calculator",
-      "url": "https://www.reddit.com/r/nvidia/comments/1uqkc9g/5080super_and_other_supers_spotted_in_seasonics/",
+      "title": "Palit GeForce RTX 5080 Infinity 3 OC thoughts?",
+      "url": "https://www.reddit.com/r/nvidia/comments/1usouin/palit_geforce_rtx_5080_infinity_3_oc_thoughts/",
       "source": "Reddit — r/nvidia"
     },
     {
-      "title": "Assassin's Creed Black Flag Resynced Review: 22 CPU and 30 GPU Benchmarks",
-      "url": "https://www.reddit.com/r/nvidia/comments/1uqvgan/assassins_creed_black_flag_resynced_review_22_cpu/",
+      "title": "GeForce GTX 960 runs Half-Life 2 on ReactOS using legacy NVIDIA driver at 60 FPS",
+      "url": "https://www.reddit.com/r/nvidia/comments/1usp8nl/geforce_gtx_960_runs_halflife_2_on_reactos_using/",
       "source": "Reddit — r/nvidia"
     }
   ]
