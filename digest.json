@@ -1,23 +1,18 @@
 {
-  "updated": "2026-07-11T07:01:29+05:30",
+  "updated": "2026-07-12T07:01:28+05:30",
   "telemetry": {
     "tokens_per_s": null,
-    "temp_c": 42.8
+    "temp_c": 41.2
   },
   "items": [
     {
-      "title": "Isaac Sim 6.0.1 GPU crash on DGX Spark (GB10 ARM64, Driver 595.71.05)",
-      "url": "https://forums.developer.nvidia.com/t/isaac-sim-6-0-1-gpu-crash-on-dgx-spark-gb10-arm64-driver-595-71-05/376418",
-      "source": "NVIDIA Omniverse Forum"
-    },
-    {
-      "title": "Palit GeForce RTX 5080 Infinity 3 OC thoughts?",
-      "url": "https://www.reddit.com/r/nvidia/comments/1usouin/palit_geforce_rtx_5080_infinity_3_oc_thoughts/",
+      "title": "NVIDIA RTX 50 hotspot sensor is still accessible through internal MODS diagnostic tool",
+      "url": "https://www.reddit.com/r/nvidia/comments/1utkh88/nvidia_rtx_50_hotspot_sensor_is_still_accessible/",
       "source": "Reddit — r/nvidia"
     },
     {
-      "title": "GeForce GTX 960 runs Half-Life 2 on ReactOS using legacy NVIDIA driver at 60 FPS",
-      "url": "https://www.reddit.com/r/nvidia/comments/1usp8nl/geforce_gtx_960_runs_halflife_2_on_reactos_using/",
+      "title": "Lenovo puts two GeForce RTX 5060 Ti 16GB GPUs in a $5,300 AI workstation, but it's not for gamers",
+      "url": "https://www.reddit.com/r/nvidia/comments/1utnh4u/lenovo_puts_two_geforce_rtx_5060_ti_16gb_gpus_in/",
       "source": "Reddit — r/nvidia"
     }
   ]
