@@ -1,18 +1,18 @@
 {
-  "updated": "2026-07-12T07:01:28+05:30",
+  "updated": "2026-07-13T07:01:05+05:30",
   "telemetry": {
     "tokens_per_s": null,
-    "temp_c": 41.2
+    "temp_c": 41.9
   },
   "items": [
     {
-      "title": "NVIDIA RTX 50 hotspot sensor is still accessible through internal MODS diagnostic tool",
-      "url": "https://www.reddit.com/r/nvidia/comments/1utkh88/nvidia_rtx_50_hotspot_sensor_is_still_accessible/",
+      "title": "Does an RTX 2060 or 2060 Super make sense?",
+      "url": "https://www.reddit.com/r/nvidia/comments/1uugjkl/does_an_rtx_2060_or_2060_super_make_sense/",
       "source": "Reddit — r/nvidia"
     },
     {
-      "title": "Lenovo puts two GeForce RTX 5060 Ti 16GB GPUs in a $5,300 AI workstation, but it's not for gamers",
-      "url": "https://www.reddit.com/r/nvidia/comments/1utnh4u/lenovo_puts_two_geforce_rtx_5060_ti_16gb_gpus_in/",
+      "title": "My fancy desk decoration.",
+      "url": "https://www.reddit.com/r/nvidia/comments/1uup59p/my_fancy_desk_decoration/",
       "source": "Reddit — r/nvidia"
     }
   ]
