@@ -1,18 +1,23 @@
 {
-  "updated": "2026-07-13T07:01:05+05:30",
+  "updated": "2026-07-14T07:01:10+05:30",
   "telemetry": {
     "tokens_per_s": null,
-    "temp_c": 41.9
+    "temp_c": 42.1
   },
   "items": [
     {
-      "title": "Does an RTX 2060 or 2060 Super make sense?",
-      "url": "https://www.reddit.com/r/nvidia/comments/1uugjkl/does_an_rtx_2060_or_2060_super_make_sense/",
+      "title": "Simulation Clock and Robot Motion Stutter in Isaac Sim",
+      "url": "https://forums.developer.nvidia.com/t/simulation-clock-and-robot-motion-stutter-in-isaac-sim/376704",
+      "source": "NVIDIA Omniverse Forum"
+    },
+    {
+      "title": "rtx 5080 vs 5070ti help",
+      "url": "https://www.reddit.com/r/nvidia/comments/1uv8ipq/rtx_5080_vs_5070ti_help/",
       "source": "Reddit — r/nvidia"
     },
     {
-      "title": "My fancy desk decoration.",
-      "url": "https://www.reddit.com/r/nvidia/comments/1uup59p/my_fancy_desk_decoration/",
+      "title": "Which 5070ti to choose?",
+      "url": "https://www.reddit.com/r/nvidia/comments/1uuyewt/which_5070ti_to_choose/",
       "source": "Reddit — r/nvidia"
     }
   ]
