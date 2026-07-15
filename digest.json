@@ -1,23 +1,23 @@
 {
-  "updated": "2026-07-14T07:01:10+05:30",
+  "updated": "2026-07-15T07:01:05+05:30",
   "telemetry": {
     "tokens_per_s": null,
-    "temp_c": 42.1
+    "temp_c": 42.5
   },
   "items": [
     {
-      "title": "Simulation Clock and Robot Motion Stutter in Isaac Sim",
-      "url": "https://forums.developer.nvidia.com/t/simulation-clock-and-robot-motion-stutter-in-isaac-sim/376704",
+      "title": "Post-Train NVIDIA Cosmos 3 In a Day With TAO Agent Skills",
+      "url": "https://forums.developer.nvidia.com/t/post-train-nvidia-cosmos-3-in-a-day-with-tao-agent-skills/376850",
       "source": "NVIDIA Omniverse Forum"
     },
     {
-      "title": "rtx 5080 vs 5070ti help",
-      "url": "https://www.reddit.com/r/nvidia/comments/1uv8ipq/rtx_5080_vs_5070ti_help/",
+      "title": "🏆3DMark Steel Nomad World Record — RTX 4080 — Kenneth Kohlberg — 8424 pts, verified on HWBOT",
+      "url": "https://www.reddit.com/r/nvidia/comments/1uvx5n8/3dmark_steel_nomad_world_record_rtx_4080_kenneth/",
       "source": "Reddit — r/nvidia"
     },
     {
-      "title": "Which 5070ti to choose?",
-      "url": "https://www.reddit.com/r/nvidia/comments/1uuyewt/which_5070ti_to_choose/",
+      "title": "Wirewiew Pro 2 for 5070Ti?",
+      "url": "https://www.reddit.com/r/nvidia/comments/1uw7fq8/wirewiew_pro_2_for_5070ti/",
       "source": "Reddit — r/nvidia"
     }
   ]
