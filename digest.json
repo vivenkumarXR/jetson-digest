@@ -1,24 +1,34 @@
 {
-  "updated": "2026-07-15T07:01:05+05:30",
+  "updated": "2026-07-16T07:01:21+05:30",
   "telemetry": {
     "tokens_per_s": null,
-    "temp_c": 42.5
+    "temp_c": 43.9
   },
   "items": [
     {
-      "title": "Post-Train NVIDIA Cosmos 3 In a Day With TAO Agent Skills",
-      "url": "https://forums.developer.nvidia.com/t/post-train-nvidia-cosmos-3-in-a-day-with-tao-agent-skills/376850",
+      "title": "MPM-Based Granular Sim inside Isaac Sim 6 with Newton Backend",
+      "url": "https://forums.developer.nvidia.com/t/mpm-based-granular-sim-inside-isaac-sim-6-with-newton-backend/376915",
       "source": "NVIDIA Omniverse Forum"
     },
     {
-      "title": "🏆3DMark Steel Nomad World Record — RTX 4080 — Kenneth Kohlberg — 8424 pts, verified on HWBOT",
-      "url": "https://www.reddit.com/r/nvidia/comments/1uvx5n8/3dmark_steel_nomad_world_record_rtx_4080_kenneth/",
+      "title": "RTX PRO 4000 + 64Gb of ram",
+      "url": "https://www.reddit.com/r/nvidia/comments/1ux4avx/rtx_pro_4000_64gb_of_ram/",
       "source": "Reddit — r/nvidia"
     },
     {
-      "title": "Wirewiew Pro 2 for 5070Ti?",
-      "url": "https://www.reddit.com/r/nvidia/comments/1uw7fq8/wirewiew_pro_2_for_5070ti/",
+      "title": "Psu and new 5070ti",
+      "url": "https://www.reddit.com/r/nvidia/comments/1ux43mf/psu_and_new_5070ti/",
       "source": "Reddit — r/nvidia"
+    },
+    {
+      "title": "(message)",
+      "url": "https://discord.com/channels/1501100420230025367/1501100421077532724/1526985451867607253",
+      "source": "Followed Announcements"
+    },
+    {
+      "title": "(message)",
+      "url": "https://discord.com/channels/1501100420230025367/1501100421077532724/1526999138753970227",
+      "source": "Followed Announcements"
     }
   ]
 }
