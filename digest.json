@@ -1,34 +1,19 @@
 {
-  "updated": "2026-07-16T07:01:21+05:30",
+  "updated": "2026-07-17T07:01:09+05:30",
   "telemetry": {
     "tokens_per_s": null,
-    "temp_c": 43.9
+    "temp_c": 42.4
   },
   "items": [
     {
-      "title": "MPM-Based Granular Sim inside Isaac Sim 6 with Newton Backend",
-      "url": "https://forums.developer.nvidia.com/t/mpm-based-granular-sim-inside-isaac-sim-6-with-newton-backend/376915",
-      "source": "NVIDIA Omniverse Forum"
-    },
-    {
-      "title": "RTX PRO 4000 + 64Gb of ram",
-      "url": "https://www.reddit.com/r/nvidia/comments/1ux4avx/rtx_pro_4000_64gb_of_ram/",
+      "title": "NVIDIA launches Blackwell-based Jetson Thor T3000 and T2000 for robots",
+      "url": "https://www.reddit.com/r/nvidia/comments/1uxx089/nvidia_launches_blackwellbased_jetson_thor_t3000/",
       "source": "Reddit — r/nvidia"
     },
     {
-      "title": "Psu and new 5070ti",
-      "url": "https://www.reddit.com/r/nvidia/comments/1ux43mf/psu_and_new_5070ti/",
+      "title": "RTX 5080 - What brand should I buy?",
+      "url": "https://www.reddit.com/r/nvidia/comments/1uy1wz4/rtx_5080_what_brand_should_i_buy/",
       "source": "Reddit — r/nvidia"
-    },
-    {
-      "title": "(message)",
-      "url": "https://discord.com/channels/1501100420230025367/1501100421077532724/1526985451867607253",
-      "source": "Followed Announcements"
-    },
-    {
-      "title": "(message)",
-      "url": "https://discord.com/channels/1501100420230025367/1501100421077532724/1526999138753970227",
-      "source": "Followed Announcements"
     }
   ]
 }
