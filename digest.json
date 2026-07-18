@@ -1,19 +1,34 @@
 {
-  "updated": "2026-07-17T07:01:09+05:30",
+  "updated": "2026-07-18T07:01:17+05:30",
   "telemetry": {
     "tokens_per_s": null,
-    "temp_c": 42.4
+    "temp_c": 43.7
   },
   "items": [
     {
-      "title": "NVIDIA launches Blackwell-based Jetson Thor T3000 and T2000 for robots",
-      "url": "https://www.reddit.com/r/nvidia/comments/1uxx089/nvidia_launches_blackwellbased_jetson_thor_t3000/",
+      "title": "Raycast_closest not working on cuda",
+      "url": "https://forums.developer.nvidia.com/t/raycast-closest-not-working-on-cuda/377226",
+      "source": "NVIDIA Omniverse Forum"
+    },
+    {
+      "title": "NVIDIA RTX 50 SUPER launch on hold over 3GB GDDR7 pricing",
+      "url": "https://www.reddit.com/r/nvidia/comments/1uz105p/nvidia_rtx_50_super_launch_on_hold_over_3gb_gddr7/",
       "source": "Reddit — r/nvidia"
     },
     {
-      "title": "RTX 5080 - What brand should I buy?",
-      "url": "https://www.reddit.com/r/nvidia/comments/1uy1wz4/rtx_5080_what_brand_should_i_buy/",
+      "title": "About the G-sync Pulsar technology",
+      "url": "https://www.reddit.com/r/nvidia/comments/1uz4dpv/about_the_gsync_pulsar_technology/",
       "source": "Reddit — r/nvidia"
+    },
+    {
+      "title": "(message)",
+      "url": "https://discord.com/channels/1501100420230025367/1501100421077532724/1527606480688255017",
+      "source": "Followed Announcements"
+    },
+    {
+      "title": "(message)",
+      "url": "https://discord.com/channels/1501100420230025367/1501100421077532724/1527606529056833657",
+      "source": "Followed Announcements"
     }
   ]
 }
