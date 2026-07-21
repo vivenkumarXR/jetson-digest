@@ -1,23 +1,18 @@
 {
-  "updated": "2026-07-20T07:01:48+05:30",
+  "updated": "2026-07-21T07:00:49+05:30",
   "telemetry": {
     "tokens_per_s": null,
-    "temp_c": 42.3
+    "temp_c": 42.0
   },
   "items": [
     {
-      "title": "Which Development Environment Do You Recommend for Isaac Sim and ROS 2: Windows or Ubuntu?",
-      "url": "https://forums.developer.nvidia.com/t/which-development-environment-do-you-recommend-for-isaac-sim-and-ros-2-windows-or-ubuntu/377386",
-      "source": "NVIDIA Omniverse Forum"
-    },
-    {
-      "title": "First ever build complete! Jump from GTX 1650 Ti Laptop to RTX 5070 Desktop 🤯💥",
-      "url": "https://www.reddit.com/r/nvidia/comments/1v0jl5c/first_ever_build_complete_jump_from_gtx_1650_ti/",
+      "title": "Has anyone succesfully updated Colorful 3060Ti Ultra OC non-LHR with ReBar Firmware?",
+      "url": "https://www.reddit.com/r/nvidia/comments/1v1lai8/has_anyone_succesfully_updated_colorful_3060ti/",
       "source": "Reddit — r/nvidia"
     },
     {
-      "title": "Der8auer converts $7,000 RTX 5090 LIGHTNING Z from AIO to custom water cooling",
-      "url": "https://www.reddit.com/r/nvidia/comments/1v0rfwi/der8auer_converts_7000_rtx_5090_lightning_z_from/",
+      "title": "NVIDIA and Japan Launch 27,500-GPU Vera Rubin AI Factory as Physical AI Push Spans Every Industry",
+      "url": "https://www.reddit.com/r/nvidia/comments/1v1lbcz/nvidia_and_japan_launch_27500gpu_vera_rubin_ai/",
       "source": "Reddit — r/nvidia"
     }
   ]
