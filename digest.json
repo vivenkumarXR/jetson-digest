@@ -1,19 +1,29 @@
 {
-  "updated": "2026-07-21T07:00:49+05:30",
+  "updated": "2026-07-22T07:01:22+05:30",
   "telemetry": {
     "tokens_per_s": null,
-    "temp_c": 42.0
+    "temp_c": 42.6
   },
   "items": [
     {
-      "title": "Has anyone succesfully updated Colorful 3060Ti Ultra OC non-LHR with ReBar Firmware?",
-      "url": "https://www.reddit.com/r/nvidia/comments/1v1lai8/has_anyone_succesfully_updated_colorful_3060ti/",
+      "title": "GeForce Summer Nights celebration - 007: First Light",
+      "url": "https://www.reddit.com/r/nvidia/comments/1v2gqo9/geforce_summer_nights_celebration_007_first_light/",
       "source": "Reddit — r/nvidia"
     },
     {
-      "title": "NVIDIA and Japan Launch 27,500-GPU Vera Rubin AI Factory as Physical AI Push Spans Every Industry",
-      "url": "https://www.reddit.com/r/nvidia/comments/1v1lbcz/nvidia_and_japan_launch_27500gpu_vera_rubin_ai/",
+      "title": "NVIDIA’s first GeForce driver for Windows on Arm confirms RTX Spark N1X with 6,144 or 5,120 CUDA cores",
+      "url": "https://www.reddit.com/r/nvidia/comments/1v2qmy0/nvidias_first_geforce_driver_for_windows_on_arm/",
       "source": "Reddit — r/nvidia"
+    },
+    {
+      "title": "(message)",
+      "url": "https://discord.com/channels/1501100420230025367/1501100421077532724/1529012587868454992",
+      "source": "Followed Announcements"
+    },
+    {
+      "title": "(message)",
+      "url": "https://discord.com/channels/1501100420230025367/1501100421077532724/1529060083928006746",
+      "source": "Followed Announcements"
     }
   ]
 }
