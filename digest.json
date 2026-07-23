@@ -1,29 +1,19 @@
 {
-  "updated": "2026-07-22T07:01:22+05:30",
+  "updated": "2026-07-23T07:01:20+05:30",
   "telemetry": {
     "tokens_per_s": null,
-    "temp_c": 42.6
+    "temp_c": 42.4
   },
   "items": [
     {
-      "title": "GeForce Summer Nights celebration - 007: First Light",
-      "url": "https://www.reddit.com/r/nvidia/comments/1v2gqo9/geforce_summer_nights_celebration_007_first_light/",
+      "title": "Potentially Buying 5090 FE",
+      "url": "https://www.reddit.com/r/nvidia/comments/1v396gq/potentially_buying_5090_fe/",
       "source": "Reddit — r/nvidia"
     },
     {
-      "title": "NVIDIA’s first GeForce driver for Windows on Arm confirms RTX Spark N1X with 6,144 or 5,120 CUDA cores",
-      "url": "https://www.reddit.com/r/nvidia/comments/1v2qmy0/nvidias_first_geforce_driver_for_windows_on_arm/",
+      "title": "PSA: New 5090 Astra Bios out after over a year!!!",
+      "url": "https://www.reddit.com/r/nvidia/comments/1v3lka0/psa_new_5090_astra_bios_out_after_over_a_year/",
       "source": "Reddit — r/nvidia"
-    },
-    {
-      "title": "(message)",
-      "url": "https://discord.com/channels/1501100420230025367/1501100421077532724/1529012587868454992",
-      "source": "Followed Announcements"
-    },
-    {
-      "title": "(message)",
-      "url": "https://discord.com/channels/1501100420230025367/1501100421077532724/1529060083928006746",
-      "source": "Followed Announcements"
     }
   ]
 }
