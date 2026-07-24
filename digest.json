@@ -1,19 +1,8 @@
 {
-  "updated": "2026-07-23T07:01:20+05:30",
+  "updated": "2026-07-24T07:00:50+05:30",
   "telemetry": {
     "tokens_per_s": null,
-    "temp_c": 42.4
+    "temp_c": 41.0
   },
-  "items": [
-    {
-      "title": "Potentially Buying 5090 FE",
-      "url": "https://www.reddit.com/r/nvidia/comments/1v396gq/potentially_buying_5090_fe/",
-      "source": "Reddit — r/nvidia"
-    },
-    {
-      "title": "PSA: New 5090 Astra Bios out after over a year!!!",
-      "url": "https://www.reddit.com/r/nvidia/comments/1v3lka0/psa_new_5090_astra_bios_out_after_over_a_year/",
-      "source": "Reddit — r/nvidia"
-    }
-  ]
+  "items": []
 }
