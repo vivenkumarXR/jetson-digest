@@ -1,8 +1,19 @@
 {
-  "updated": "2026-07-24T07:00:50+05:30",
+  "updated": "2026-07-25T07:01:21+05:30",
   "telemetry": {
     "tokens_per_s": null,
-    "temp_c": 41.0
+    "temp_c": 42.7
   },
-  "items": []
+  "items": [
+    {
+      "title": "RTX 5060ti 16GB or RTX 5070",
+      "url": "https://www.reddit.com/r/nvidia/comments/1v5fxl6/rtx_5060ti_16gb_or_rtx_5070/",
+      "source": "Reddit — r/nvidia"
+    },
+    {
+      "title": "If you're using G-sync with RTSS, do not use Front/Back edge sync.",
+      "url": "https://www.reddit.com/r/nvidia/comments/1v5ghzz/if_youre_using_gsync_with_rtss_do_not_use/",
+      "source": "Reddit — r/nvidia"
+    }
+  ]
 }
