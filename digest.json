@@ -1,18 +1,23 @@
 {
-  "updated": "2026-07-25T07:01:21+05:30",
+  "updated": "2026-08-25T07:01:22+05:30",
   "telemetry": {
     "tokens_per_s": null,
-    "temp_c": 42.7
+    "temp_c": 45.7
   },
   "items": [
     {
-      "title": "RTX 5060ti 16GB or RTX 5070",
-      "url": "https://www.reddit.com/r/nvidia/comments/1v5fxl6/rtx_5060ti_16gb_or_rtx_5070/",
+      "title": "Publish Position of object in the Sim Externally by Socket",
+      "url": "https://forums.developer.nvidia.com/t/publish-position-of-object-in-the-sim-externally-by-socket/381160",
+      "source": "NVIDIA Omniverse Forum"
+    },
+    {
+      "title": "CP2077 Opening 15 mins, Ray Reconstruction 4.5, 1440p HDR 120fps",
+      "url": "https://www.reddit.com/r/nvidia/comments/1vwrssl/cp2077_opening_15_mins_ray_reconstruction_45/",
       "source": "Reddit — r/nvidia"
     },
     {
-      "title": "If you're using G-sync with RTSS, do not use Front/Back edge sync.",
-      "url": "https://www.reddit.com/r/nvidia/comments/1v5ghzz/if_youre_using_gsync_with_rtss_do_not_use/",
+      "title": "Windows 11 prepares unified memory controls ahead of NVIDIA RTX Spark PCs",
+      "url": "https://www.reddit.com/r/nvidia/comments/1vx0cfp/windows_11_prepares_unified_memory_controls_ahead/",
       "source": "Reddit — r/nvidia"
     }
   ]
