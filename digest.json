@@ -1,23 +1,23 @@
 {
-  "updated": "2026-08-25T07:01:22+05:30",
+  "updated": "2026-08-26T07:01:24+05:30",
   "telemetry": {
     "tokens_per_s": null,
-    "temp_c": 45.7
+    "temp_c": 46.1
   },
   "items": [
     {
-      "title": "Publish Position of object in the Sim Externally by Socket",
-      "url": "https://forums.developer.nvidia.com/t/publish-position-of-object-in-the-sim-externally-by-socket/381160",
+      "title": "Integrating Jetson Orin Edge Nodes with Omniverse & Modulus for Spatial Logistics Infrastructure",
+      "url": "https://forums.developer.nvidia.com/t/integrating-jetson-orin-edge-nodes-with-omniverse-modulus-for-spatial-logistics-infrastructure/381202",
       "source": "NVIDIA Omniverse Forum"
     },
     {
-      "title": "CP2077 Opening 15 mins, Ray Reconstruction 4.5, 1440p HDR 120fps",
-      "url": "https://www.reddit.com/r/nvidia/comments/1vwrssl/cp2077_opening_15_mins_ray_reconstruction_45/",
+      "title": "Make sure \"Texture filtering - Negative LOD bias\" is set to \"Allow\", dont make the same mistake as i did...",
+      "url": "https://www.reddit.com/r/nvidia/comments/1vy1mn4/make_sure_texture_filtering_negative_lod_bias_is/",
       "source": "Reddit — r/nvidia"
     },
     {
-      "title": "Windows 11 prepares unified memory controls ahead of NVIDIA RTX Spark PCs",
-      "url": "https://www.reddit.com/r/nvidia/comments/1vx0cfp/windows_11_prepares_unified_memory_controls_ahead/",
+      "title": "[HWUB] The Best DLSS 4.5 Update Yet - Ray Reconstruction",
+      "url": "https://www.reddit.com/r/nvidia/comments/1vy4z3u/hwub_the_best_dlss_45_update_yet_ray/",
       "source": "Reddit — r/nvidia"
     }
   ]
