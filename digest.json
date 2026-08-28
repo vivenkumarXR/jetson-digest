@@ -1,18 +1,18 @@
 {
-  "updated": "2026-08-27T07:01:23+05:30",
+  "updated": "2026-08-28T07:01:13+05:30",
   "telemetry": {
     "tokens_per_s": null,
-    "temp_c": 45.2
+    "temp_c": 52.6
   },
   "items": [
     {
-      "title": "Tesla K20: GK110 die shots I made",
-      "url": "https://www.reddit.com/r/nvidia/comments/1vypnw0/tesla_k20_gk110_die_shots_i_made/",
+      "title": "NVIDIA announces NVHBM as industry shifts toward custom HBM designs",
+      "url": "https://www.reddit.com/r/nvidia/comments/1vzn8lz/nvidia_announces_nvhbm_as_industry_shifts_toward/",
       "source": "Reddit — r/nvidia"
     },
     {
-      "title": "I built a free open-source analyzer for NVIDIA FrameView benchmarks",
-      "url": "https://www.reddit.com/r/nvidia/comments/1vyujtu/i_built_a_free_opensource_analyzer_for_nvidia/",
+      "title": "Windows on Arm now has over 7,000 verified apps and games ahead of RTX Spark PCs",
+      "url": "https://www.reddit.com/r/nvidia/comments/1vzs322/windows_on_arm_now_has_over_7000_verified_apps/",
       "source": "Reddit — r/nvidia"
     }
   ]
