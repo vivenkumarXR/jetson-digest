@@ -1,19 +1,34 @@
 {
-  "updated": "2026-08-28T07:01:13+05:30",
+  "updated": "2026-08-29T07:01:21+05:30",
   "telemetry": {
     "tokens_per_s": null,
-    "temp_c": 52.6
+    "temp_c": 51.7
   },
   "items": [
     {
-      "title": "NVIDIA announces NVHBM as industry shifts toward custom HBM designs",
-      "url": "https://www.reddit.com/r/nvidia/comments/1vzn8lz/nvidia_announces_nvhbm_as_industry_shifts_toward/",
+      "title": "Road surface splits into multiple layers near the edge of the reconstructed area",
+      "url": "https://forums.developer.nvidia.com/t/road-surface-splits-into-multiple-layers-near-the-edge-of-the-reconstructed-area/381692",
+      "source": "NVIDIA Omniverse Forum"
+    },
+    {
+      "title": "NVIDIA Warp Reaches 10 Million Downloads",
+      "url": "https://forums.developer.nvidia.com/t/nvidia-warp-reaches-10-million-downloads/381734",
+      "source": "NVIDIA Omniverse Forum"
+    },
+    {
+      "title": "Dlss 5 AC Black Flag",
+      "url": "https://www.reddit.com/r/nvidia/comments/1w0n5rz/dlss_5_ac_black_flag/",
       "source": "Reddit — r/nvidia"
     },
     {
-      "title": "Windows on Arm now has over 7,000 verified apps and games ahead of RTX Spark PCs",
-      "url": "https://www.reddit.com/r/nvidia/comments/1vzs322/windows_on_arm_now_has_over_7000_verified_apps/",
+      "title": "DLSS 5: Palworld",
+      "url": "https://www.reddit.com/r/nvidia/comments/1w0pet9/dlss_5_palworld/",
       "source": "Reddit — r/nvidia"
+    },
+    {
+      "title": "(message)",
+      "url": "https://discord.com/channels/1501100420230025367/1501100421077532724/1542915586164662324",
+      "source": "Followed Announcements"
     }
   ]
 }
