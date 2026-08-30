@@ -1,34 +1,8 @@
 {
-  "updated": "2026-08-29T07:01:21+05:30",
+  "updated": "2026-08-30T07:00:49+05:30",
   "telemetry": {
     "tokens_per_s": null,
-    "temp_c": 51.7
+    "temp_c": 44.5
   },
-  "items": [
-    {
-      "title": "Road surface splits into multiple layers near the edge of the reconstructed area",
-      "url": "https://forums.developer.nvidia.com/t/road-surface-splits-into-multiple-layers-near-the-edge-of-the-reconstructed-area/381692",
-      "source": "NVIDIA Omniverse Forum"
-    },
-    {
-      "title": "NVIDIA Warp Reaches 10 Million Downloads",
-      "url": "https://forums.developer.nvidia.com/t/nvidia-warp-reaches-10-million-downloads/381734",
-      "source": "NVIDIA Omniverse Forum"
-    },
-    {
-      "title": "Dlss 5 AC Black Flag",
-      "url": "https://www.reddit.com/r/nvidia/comments/1w0n5rz/dlss_5_ac_black_flag/",
-      "source": "Reddit — r/nvidia"
-    },
-    {
-      "title": "DLSS 5: Palworld",
-      "url": "https://www.reddit.com/r/nvidia/comments/1w0pet9/dlss_5_palworld/",
-      "source": "Reddit — r/nvidia"
-    },
-    {
-      "title": "(message)",
-      "url": "https://discord.com/channels/1501100420230025367/1501100421077532724/1542915586164662324",
-      "source": "Followed Announcements"
-    }
-  ]
+  "items": []
 }
