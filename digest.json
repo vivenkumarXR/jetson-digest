@@ -1,8 +1,19 @@
 {
-  "updated": "2026-08-30T07:00:49+05:30",
+  "updated": "2026-08-31T07:01:05+05:30",
   "telemetry": {
     "tokens_per_s": null,
-    "temp_c": 44.5
+    "temp_c": 41.9
   },
-  "items": []
+  "items": [
+    {
+      "title": "Help suggest an upgrade please, I'm out of my depth.",
+      "url": "https://www.reddit.com/r/nvidia/comments/1w2auuq/help_suggest_an_upgrade_please_im_out_of_my_depth/",
+      "source": "Reddit — r/nvidia"
+    },
+    {
+      "title": "ASUS TUF Gaming GeForce RTX 5070 Ti",
+      "url": "https://www.reddit.com/r/nvidia/comments/1w2k3jh/asus_tuf_gaming_geforce_rtx_5070_ti/",
+      "source": "Reddit — r/nvidia"
+    }
+  ]
 }
