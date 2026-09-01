@@ -1,18 +1,18 @@
 {
-  "updated": "2026-08-31T07:01:05+05:30",
+  "updated": "2026-09-01T07:01:11+05:30",
   "telemetry": {
     "tokens_per_s": null,
-    "temp_c": 41.9
+    "temp_c": 42.2
   },
   "items": [
     {
-      "title": "Help suggest an upgrade please, I'm out of my depth.",
-      "url": "https://www.reddit.com/r/nvidia/comments/1w2auuq/help_suggest_an_upgrade_please_im_out_of_my_depth/",
+      "title": "[RTX-5090] In-game Effective Clocks and UV/OC profiles",
+      "url": "https://www.reddit.com/r/nvidia/comments/1w37484/rtx5090_ingame_effective_clocks_and_uvoc_profiles/",
       "source": "Reddit — r/nvidia"
     },
     {
-      "title": "ASUS TUF Gaming GeForce RTX 5070 Ti",
-      "url": "https://www.reddit.com/r/nvidia/comments/1w2k3jh/asus_tuf_gaming_geforce_rtx_5070_ti/",
+      "title": "How does framegen work/behave with locked fps?",
+      "url": "https://www.reddit.com/r/nvidia/comments/1w3fvu7/how_does_framegen_workbehave_with_locked_fps/",
       "source": "Reddit — r/nvidia"
     }
   ]
