@@ -1,18 +1,18 @@
 {
-  "updated": "2026-09-01T07:01:11+05:30",
+  "updated": "2026-09-02T07:01:18+05:30",
   "telemetry": {
     "tokens_per_s": null,
-    "temp_c": 42.2
+    "temp_c": 42.8
   },
   "items": [
     {
-      "title": "[RTX-5090] In-game Effective Clocks and UV/OC profiles",
-      "url": "https://www.reddit.com/r/nvidia/comments/1w37484/rtx5090_ingame_effective_clocks_and_uvoc_profiles/",
+      "title": "3070 Upgrade Options ?",
+      "url": "https://www.reddit.com/r/nvidia/comments/1w424r9/3070_upgrade_options/",
       "source": "Reddit — r/nvidia"
     },
     {
-      "title": "How does framegen work/behave with locked fps?",
-      "url": "https://www.reddit.com/r/nvidia/comments/1w3fvu7/how_does_framegen_workbehave_with_locked_fps/",
+      "title": "NVIDIA Announces Jetson Orin Nano 2: Entry-Level Edge Board Gets New Ampere Silicon",
+      "url": "https://www.reddit.com/r/nvidia/comments/1w43hxs/nvidia_announces_jetson_orin_nano_2_entrylevel/",
       "source": "Reddit — r/nvidia"
     }
   ]
