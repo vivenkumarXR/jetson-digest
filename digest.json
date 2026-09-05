@@ -1,28 +1,18 @@
 {
-  "updated": "2026-09-04T07:01:57+05:30",
+  "updated": "2026-09-05T07:01:15+05:30",
   "telemetry": {
     "tokens_per_s": null,
-    "temp_c": 42.1
+    "temp_c": 43.0
   },
   "items": [
     {
-      "title": "Community registry: v0.2.2 release not indexed; extension id was renamed in this version",
-      "url": "https://forums.developer.nvidia.com/t/community-registry-v0-2-2-release-not-indexed-extension-id-was-renamed-in-this-version/382134",
-      "source": "NVIDIA Omniverse Forum"
-    },
-    {
-      "title": "Meta Quest 3S teleop — no tracked devices, XR_ERROR_FORM_FACTOR_UNSUPPORTED (Isaac Lab-Arena 3.0, CloudXR 6.1.0)",
-      "url": "https://forums.developer.nvidia.com/t/meta-quest-3s-teleop-no-tracked-devices-xr-error-form-factor-unsupported-isaac-lab-arena-3-0-cloudxr-6-1-0/382201",
-      "source": "NVIDIA Omniverse Forum"
-    },
-    {
-      "title": "Nvidia GPUs and intermediate resolutions like 1728p&1800p",
-      "url": "https://www.reddit.com/r/nvidia/comments/1w6561f/nvidia_gpus_and_intermediate_resolutions_like/",
+      "title": "[Official] NVIDIA will bring support for DLSS 3D-Guided Neural Rendering to the GeForce RTX 40 Series",
+      "url": "https://www.reddit.com/r/nvidia/comments/1w6ton0/official_nvidia_will_bring_support_for_dlss/",
       "source": "Reddit — r/nvidia"
     },
     {
-      "title": "GTX 1650Ti to RTX 5060Ti 16GB?",
-      "url": "https://www.reddit.com/r/nvidia/comments/1w5ytd9/gtx_1650ti_to_rtx_5060ti_16gb/",
+      "title": "NVIDIA confirms RTX Spark N1X 6144 and 5120 CUDA core specs, launching next month",
+      "url": "https://www.reddit.com/r/nvidia/comments/1w6xrgs/nvidia_confirms_rtx_spark_n1x_6144_and_5120_cuda/",
       "source": "Reddit — r/nvidia"
     }
   ]
