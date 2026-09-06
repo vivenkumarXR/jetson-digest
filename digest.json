@@ -1,18 +1,18 @@
 {
-  "updated": "2026-09-05T07:01:15+05:30",
+  "updated": "2026-09-06T07:01:06+05:30",
   "telemetry": {
     "tokens_per_s": null,
-    "temp_c": 43.0
+    "temp_c": 42.6
   },
   "items": [
     {
-      "title": "[Official] NVIDIA will bring support for DLSS 3D-Guided Neural Rendering to the GeForce RTX 40 Series",
-      "url": "https://www.reddit.com/r/nvidia/comments/1w6ton0/official_nvidia_will_bring_support_for_dlss/",
+      "title": "Acer unveils compact RTX Spark PC with 128GB unified memory",
+      "url": "https://www.reddit.com/r/nvidia/comments/1w81dbu/acer_unveils_compact_rtx_spark_pc_with_128gb/",
       "source": "Reddit — r/nvidia"
     },
     {
-      "title": "NVIDIA confirms RTX Spark N1X 6144 and 5120 CUDA core specs, launching next month",
-      "url": "https://www.reddit.com/r/nvidia/comments/1w6xrgs/nvidia_confirms_rtx_spark_n1x_6144_and_5120_cuda/",
+      "title": "Updated nVidia Panel: Super Resolution + Ray Reconstruction",
+      "url": "https://www.reddit.com/r/nvidia/comments/1w86f11/updated_nvidia_panel_super_resolution_ray/",
       "source": "Reddit — r/nvidia"
     }
   ]
