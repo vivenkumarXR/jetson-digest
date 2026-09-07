@@ -1,18 +1,18 @@
 {
-  "updated": "2026-09-06T07:01:06+05:30",
+  "updated": "2026-09-07T07:01:02+05:30",
   "telemetry": {
     "tokens_per_s": null,
-    "temp_c": 42.6
+    "temp_c": 41.9
   },
   "items": [
     {
-      "title": "Acer unveils compact RTX Spark PC with 128GB unified memory",
-      "url": "https://www.reddit.com/r/nvidia/comments/1w81dbu/acer_unveils_compact_rtx_spark_pc_with_128gb/",
+      "title": "HP OmniBook Ultra 16 and X 14 get NVIDIA RTX Spark processors",
+      "url": "https://www.reddit.com/r/nvidia/comments/1w8v1kn/hp_omnibook_ultra_16_and_x_14_get_nvidia_rtx/",
       "source": "Reddit — r/nvidia"
     },
     {
-      "title": "Updated nVidia Panel: Super Resolution + Ray Reconstruction",
-      "url": "https://www.reddit.com/r/nvidia/comments/1w86f11/updated_nvidia_panel_super_resolution_ray/",
+      "title": "Opinions on best vibrancy setting?",
+      "url": "https://www.reddit.com/r/nvidia/comments/1w903pw/opinions_on_best_vibrancy_setting/",
       "source": "Reddit — r/nvidia"
     }
   ]
