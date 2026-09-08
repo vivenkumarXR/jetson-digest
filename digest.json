@@ -1,18 +1,18 @@
 {
-  "updated": "2026-09-07T07:01:02+05:30",
+  "updated": "2026-09-08T07:01:06+05:30",
   "telemetry": {
     "tokens_per_s": null,
-    "temp_c": 41.9
+    "temp_c": 42.2
   },
   "items": [
     {
-      "title": "HP OmniBook Ultra 16 and X 14 get NVIDIA RTX Spark processors",
-      "url": "https://www.reddit.com/r/nvidia/comments/1w8v1kn/hp_omnibook_ultra_16_and_x_14_get_nvidia_rtx/",
+      "title": "Is there a DLSS ultra performance comparison between 3.8 vs dlss 4 vs dlss 4.5",
+      "url": "https://www.reddit.com/r/nvidia/comments/1w9odms/is_there_a_dlss_ultra_performance_comparison/",
       "source": "Reddit — r/nvidia"
     },
     {
-      "title": "Opinions on best vibrancy setting?",
-      "url": "https://www.reddit.com/r/nvidia/comments/1w903pw/opinions_on_best_vibrancy_setting/",
+      "title": "5070 ti vs 5080",
+      "url": "https://www.reddit.com/r/nvidia/comments/1wa5edh/5070_ti_vs_5080/",
       "source": "Reddit — r/nvidia"
     }
   ]
